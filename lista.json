@@ -1,0 +1,20 @@
+[
+  {
+	"tipo": "ferromagnetico",
+	"list": [
+	  "hierro fundido",
+	  "cobre",
+	  "Acero fundido",
+	  "Acero Aleacion",
+	  "Niquel"
+	]
+  },
+  {
+	"tipo": "no ferromagnetico",
+	"list": [
+	  "Grafito",
+	  "Titanio","Acero Inoxidable","Zirconio","Uranio","Plomo","Aleación Aluminio","tungsteno","Magnesio","Aluminio"
+	]
+  },
+ 
+]
